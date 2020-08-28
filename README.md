@@ -41,7 +41,7 @@ MSMT - UNISALESIANO ARAÇATUBA - Engenharia da Computação
 * MySQL
 
 ## Cursos Completos
-* Curso Web Moderno com JavaScript 2020 (Udemy / Certificado)
+* Curso Web Moderno com JavaScript 2020 (Udemy / [Certificado](./certificados/Curso%20Web%20Moderno.pdf)
 
 ## Redes Sociais
 * [Facebook](https://www.facebook.com/pedrocs378/)
