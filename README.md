@@ -39,6 +39,7 @@ MSMT - UNISALESIANO ARAÇATUBA - Engenharia da Computação
 
 ### Banco de Dados
 * MySQL
+* NoSQL (Firebase / MongoDB)
 
 ## Cursos Completos
 * Curso Web Moderno com JavaScript 2020 (Udemy / [Certificado](./certificados/Curso%20Web%20Moderno.pdf))
