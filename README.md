@@ -42,7 +42,8 @@ MSMT - UNISALESIANO ARAÇATUBA - Engenharia da Computação
 * NoSQL (Firebase / MongoDB)
 
 ## Cursos Completos
-* Curso Web Moderno com JavaScript 2020 (Udemy / [Certificado](./certificados/Curso%20Web%20Moderno.pdf))
+* Curso Web Moderno com JavaScript 2020 (Udemy / [Certificado](./certificados/curso-web-moderno.pdf))
+* Curso React Native (Udemy / [Certificado](./certificados/react-native.pdf))
 
 ## Redes Sociais
 * [Facebook](https://www.facebook.com/pedrocs378/)
