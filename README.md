@@ -4,7 +4,7 @@
 :iphone: (18) 99161-8592  
 :email: pedrocs378@gmail.com   
 
-Meu nome é Pedro César, estudante do quinto e ultimo ano de Engenharia da Computação, apaixonado em Desenvolvimento Web, com muita vontade de aprofundar em JS e suas tecnologias, como React e principalmente em React Native.
+Meu nome é Pedro César, formado em Engenharia da Computação, apaixonado em Desenvolvimento Web, com boa experiencia na linguagem de Javascript/Typescript, frameworks como React e React Native e o básico do backend utilizando Node.js. Possuo muita vontade em me aprofundar ainda mais em React e suas tecnologias, como por exemplo Next.js.
 Nas horas vagas gosto de assistir, sair com os amigos, jogar, e as vezes fazer algum exercicio físico.  
 
 ## Formação
