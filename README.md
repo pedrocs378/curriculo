@@ -10,7 +10,7 @@ Nas horas vagas gosto de assistir, sair com os amigos, jogar, e as vezes fazer a
 ## Formação
 
 MSMT - UNISALESIANO ARAÇATUBA - Engenharia da Computação  
-10º Semestre - Finalização em 2020  
+02/2016 - 12/2020
 
 ## Conhecimentos
 
@@ -34,11 +34,10 @@ MSMT - UNISALESIANO ARAÇATUBA - Engenharia da Computação
 
 ### Linguagens de Programação
 * Javascript
-* Java
-* C++
+* Typescript
 
 ### Banco de Dados
-* MySQL
+* Postgres
 * NoSQL (Firebase / MongoDB)
 
 ## Cursos Completos
@@ -47,6 +46,6 @@ MSMT - UNISALESIANO ARAÇATUBA - Engenharia da Computação
 
 ## Redes Sociais
 * [Facebook](https://www.facebook.com/pedrocs378/)
-* [Linkedin](https://www.linkedin.com/in/pedro-césar-64a1ab151)
+* [Linkedin](https://www.linkedin.com/in/pedro-c%C3%A9sar-vagner-nogueira-64a1ab151/)
 
 
